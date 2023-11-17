@@ -4,7 +4,7 @@ count = int(input())
 for i in range(count):
     data = input().split()
     time_traveled = (int(data[0]) * 24 + int(data[1])) * 60 + int(data[2])
-    if data[4] == 'A':
+    if data[4] == 'A. Хитрый шифр':
         if int(data[3]) not in dct:
             dct[int(data[3])] = -time_traveled
         else:
