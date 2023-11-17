@@ -33,7 +33,7 @@
 
 #### Ввод  
 2  
-Volozh,Arcady,Yurievich,11,2,1964 
+Volozh,Arcady,Yurievich,11,2,1964  
 Segalovich,Ilya,Valentinovich,13,9,1964
 
 #### Вывод  
