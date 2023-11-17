@@ -1,4 +1,4 @@
-# TODO: TASK A - DONE!
+# # TODO: TASK A - DONE!
 #
 # def sixteen(num):
 #     letters = {10: "A", 11: "B", 12: "C", 13: "D", 14: "E", 15: 'F'}
@@ -32,10 +32,10 @@
 #
 # res = cipher(data)
 # print(' '.join(res))
-
-
-#   TODO TASK B - DONE! (можно через defaultdict, кода будет меньше (но будет ли онт аким же быстрым?))
-
+#
+#
+# #  TODO TASK B - DONE! (можно через defaultdict, кода будет меньше (но будет ли онт аким же быстрым?))
+#
 # dct = {}
 # count = int(input())
 #
@@ -57,7 +57,7 @@
 # val = [el[1] for el in sorted_dct]
 # print(' '.join(str(el) for el in val))
 
-#   TODO: TASK D - DONE!
+# TODO: TASK D - DONE!
 
 # def bin_search(orders, request, index):
 #     left, right = 0, len(orders) - 1
@@ -75,7 +75,7 @@
 #         else:
 #             r1 = mid - 1
 #     return left, r1
-
+#
 #
 # o = int(input())
 # orders = []
