@@ -1,5 +1,5 @@
 def sixteen(num):
-    letters = {10: "A", 11: "B", 12: "C", 13: "D", 14: "E", 15: 'F'}
+    letters = {10: 'A', 11: 'B', 12: 'C', 13: 'D', 14: 'E', 15: 'F'}
     res = []
     while num != 0:
         if num % 16 < 10:
